@@ -1430,101 +1430,35 @@ mark {
     }
 }
 
-@media (max-width: 560px) {
+@media (max-width: 570px) {
     .proj1 {
         width: 325px;
         top: -22px;
-        left: 90px;
+        left: 20px;
     }
 
     .proj2 {
         width: 225px;
         top: -37px;
-        left: 140px;
+        left: 20px;
     }
 
     .proj4 {
         width: 325px;
         top: -12px;
-        left: 90px;
-    }
-
-    .proj5 {
-        width: 325px;
-        top: -12px;
-        left: 90px;
-    }
-
-    .work-img-project {
-        height: 250px !important;
-        margin: 120px 0 60px !important;
-    }
-
-    .proj1-1 {
-        width: 250px;
-        top: -70px;
-        left: 60px;
-    }
-
-    .work-img-project .proj2 {
-        width: 200px;
-        top: -25px;
-        left: 75px;
-    }
-
-    .mac-img {
-        height: 180px !important;
-    }
-
-    .work-img-project .proj4 {
-        width: 325px;
-        bottom: -40px;
-        left: 10px;
-    }
-
-    .work-img-project .proj5 {
-        width: 175px;
-        top: -20px;
-        left: 90px;
-    }
-
-    .user-merchant img,
-    .user-customer img {
-        width: 345px;
-    }
-}
-
-
-@media (max-width: 500px) {
-    
-    .proj1 {
-        width: 275px;
-        top: 10px;
-        left: 85px;
-    }
-
-    .proj2 {
-        width: 200px;
-        top: -12px;
-        left: 125px;
+        left: 20px;
     }
 
     .proj3 {
-        width: 200px;
-        top: 0px;
-        left: 125px;
-    }
-
-    .proj4 {
         width: 275px;
-        top: 20px;
-        left: 85px;
+        top: -30px;
+        left: 20px;
     }
 
     .proj5 {
-        width: 275px;
-        top: 18px;
-        left: 85px;
+        width: 325px;
+        top: -12px;
+        left: 20px;
     }
 
     .work-img-project {
@@ -1565,5 +1499,6 @@ mark {
         width: 345px;
     }
 }
+
 
 /* ======= !Media Queries =======  *
