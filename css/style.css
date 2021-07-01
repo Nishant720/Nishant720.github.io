@@ -80,6 +80,10 @@ h6.variant {
     margin-left: 2px;
 }
 
+.pop {
+    color: #40E0D0;
+}
+
 p {
     font-family: 'Lora', serif;
     font-size: 20px;
@@ -406,12 +410,6 @@ mark {
     margin-bottom: 16px;
 }
 
-.georgia-logo {
-    width: 9px;
-    height: auto;
-    margin-top: -25px;
-}
-
 .profile-img {
     position: relative;
     top: -10px;
@@ -423,7 +421,22 @@ mark {
 }
 
 /* ======= !About =======  */
+#myBtn {
+    position: fixed;
+    bottom: 30px;
+    float: right;
+    right: 18.5%;
+    left: 87.25%;
+    max-width: 50px;
+    width: 100%;
+    border-color: rgba(199, 199, 199, 0.829);
+    padding: .5px;
 
+}
+/*On Hover Color Change*/
+#myBtn:hover {
+    background-color: #40E0D0;
+}
 
 /* ======= Work =======  */
 
@@ -531,7 +544,7 @@ mark {
 
 .back-to-work {
     font-size: 22px;
-    color: rgb(116, 116, 116);
+    color: rgb(14, 14, 14);
     padding-bottom: 80px;
 }
 
@@ -921,10 +934,15 @@ mark {
 .contact-list {
     padding-top: 40px;
     margin: 0;
+    display: inline;
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
 }
 
 .contact-list li {
     margin-bottom: 20px;
+    display: inline;
 }
 
 .contact-list li a {
@@ -934,15 +952,25 @@ mark {
     color: #666666;
 }
 
-.contact-list li a:hover {
-    text-decoration: none;
-    text-shadow: none;
-    color: #40E0D0;
+.mail :hover{
+    color: #EA4335;
+}
+
+.lnkd :hover{
+    color: #0072b1;
+}
+
+.tweet :hover{
+    color: #1DA1F2;
+}
+
+.drib :hover{
+    color: #ea4c89;
 }
 
 #contact p {
     font-family: 'Montserrat', sans-serif;
-    color: #666666;
+    color: #797979;
     margin: 150px 0 0;
 }
 
