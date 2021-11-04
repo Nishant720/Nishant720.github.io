@@ -31,6 +31,7 @@ h6 {
 }
 
 h1 {
+    font-family: 'Poppins', sans-serif;
     font-size: 64px;
     font-weight: 600;
     line-height: 88px;
@@ -40,8 +41,9 @@ h1 {
 }
 
 .header h1 {
+    font-family: 'Poppins', sans-serif;
     font-size: 56px;
-    font-weight: 200;
+    font-weight: 600;
     line-height: 98px;
     color: #0A0A0A;
     display: flex;
@@ -561,7 +563,7 @@ mark {
 .label {
     position: absolute;
     background-color: #40E0D0;
-    font-family: 'poppins';
+    font-family: 'Poppins', sans-serif;
     font-size: 16px;
     color: #fff;
     padding: 16px;
@@ -809,7 +811,7 @@ mark {
 .work-list button {
     background-color: transparent;
     border: none;
-    font-family: 'poppins';
+    font-family: 'Poppins', sans-serif;
     color: #40E0D0;
     font-weight: 500;
     width: 150px;
@@ -832,7 +834,7 @@ mark {
 }
 
 .work-number {
-    font-family: 'poppins';
+    font-family: 'Poppins', sans-serif;
     font-size: 120px;
     font-weight: 600;
     line-height: 120px;
@@ -841,7 +843,7 @@ mark {
 }
 
 .work-text h5 {
-    font-size: 46px;
+    font-size: 40px;
     color: #0a0a0a;
     font-weight: 600;
     line-height: 1.2;
@@ -1007,7 +1009,7 @@ mark {
 }
 
 #contact p {
-    font-family: 'poppins';
+    font-family: 'Poppins', sans-serif;
     color: #797979;
     margin: 150px 0 0;
 }
