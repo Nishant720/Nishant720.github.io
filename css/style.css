@@ -64,8 +64,10 @@ h3 {
 h4 {
     font-size: 28px;
     font-weight: 600;
-    color: #fff;
+    
 }
+
+
 
 h5 {
     font-size: 18px;
@@ -99,6 +101,31 @@ h6.variant {
     margin-bottom: 36px;
 }
 
+#need {
+    padding-bottom: 60px;
+    
+}
+#need {
+    padding-bottom: 40x;
+    
+}
+
+.card {
+    
+    width: 400px;
+    height: 250px;
+    margin: 10px;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);    
+    text-align: center;
+  }
+
+  
+  .thumbnail {
+    margin: 0 0 48px;
+  }  
+ 
+
 .outline {
     color: white;
     text-shadow: -1px -1px 0 #0a0a0a, 1px -1px 0 #0a0a0a, -1px 1px 0 #0a0a0a, 1px 1px 0 #0a0a0a;
@@ -122,6 +149,8 @@ p {
     color: #333;
     margin-bottom: 36px;
 }
+
+
 
 a {
     font-family: 'Montserrat', sans-serif;
