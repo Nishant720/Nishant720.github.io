@@ -137,6 +137,14 @@ h6.variant {
     color: #40E0D0;
 }
 
+.pop1 {
+    color: #8E0C99;
+}
+
+.pop2 {
+    color: #FFFC00;
+}
+
 p {
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
